@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://caiaandrei.github.io/UpdateNugets-Installer/UpdateNuGets.Package.appinstaller"
-	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.7.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="0fc18df8-2fa3-4a59-bd70-2c5df19a9bbe"
-		Version="1.0.6.0"
+		Version="1.0.7.0"
 		Publisher="CN=Caia Andrei"
-		Uri="https://caiaandrei.github.io/UpdateNugets-Installer/UpdateNuGets.Package_1.0.6.0_Test/UpdateNuGets.Package_1.0.6.0_x64.appxbundle" />
+		Uri="https://caiaandrei.github.io/UpdateNugets-Installer/UpdateNuGets.Package_1.0.7.0_Test/UpdateNuGets.Package_1.0.7.0_x64.appxbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
